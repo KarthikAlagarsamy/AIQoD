@@ -1,2 +1,2 @@
-# AIQoD
-Multi-Output Classification modelling
+# Multi-Output Classification modelling
+
