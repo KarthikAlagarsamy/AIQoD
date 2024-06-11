@@ -8,7 +8,7 @@ This project aims to demonstrate multi-output classification modelling. Multi-ou
 - `trainLabels.csv`: Training labels.
 - `test.csv`: Test data.
 - `Karthik - AIQoD assignment.ipynb`: Python script for data preprocessing, model building, prediction, and submission.
-- `Karthik_submissionfile.xlsx`: Submission file with predicted labels.
+- `Karthik_submissionfile.xlsx`: Submission file with predicted labels and predicted probability values.
 
 ## Dependencies
 - pandas
